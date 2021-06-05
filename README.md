@@ -1,1 +1,5 @@
-# task-1
+# Task 1
+
+npm install
+npm start
+npm run test
